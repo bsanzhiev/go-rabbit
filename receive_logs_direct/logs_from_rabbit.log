@@ -1,0 +1,7 @@
+2024/01/10 11:50:47 Binding queue amq.gen-zpJiuiGy5NNXoEoKWOXEQA to exchange logs_direct with routing key warning
+2024/01/10 11:50:47 Binding queue amq.gen-zpJiuiGy5NNXoEoKWOXEQA to exchange logs_direct with routing key error
+2024/01/10 11:50:47  [*] Waiting for a messages. To exit press CTRL+C
+2024/01/10 11:52:08  [x] error Run. Run. Or it will explode.
+2024/01/10 11:52:45  [x] error Run. Run. Or it will explode.
+2024/01/10 11:53:41  [x] warning Run. Run. Or it will explode.
+2024/01/10 11:54:03  [x] warning Somethin strange.
